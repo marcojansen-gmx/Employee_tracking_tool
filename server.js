@@ -1,5 +1,3 @@
-const mysql = require("mysql");
-const inquirer = require("inquirer");
 const baseSelection = require("./lib/baseSelection");
 
 baseSelection();
