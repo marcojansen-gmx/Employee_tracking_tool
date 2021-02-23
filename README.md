@@ -51,6 +51,9 @@ https://github.com/marcojansen-gmx/Employee_tracking_tool
 
 ## Mock-Up
 
+https://drive.google.com/file/d/1K8Zztexl6cOn0n9vvBvALyhfZ_J5cru2/view
+
 The following image to show the menu and a video link to demonstrate app functionality:
 
 ![node app to track employees](https://github.com/marcojansen-gmx/Employee_tracking_tool/blob/main/assets/Employee_tracker.png?raw=true)
+
