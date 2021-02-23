@@ -11,7 +11,7 @@ This is a node application which assists to manage employees, roles and departme
 * [Github](#Github)
 * [Mock-Up](#Mock-Up)
 
-## User Story
+## UserStory
 
 ```
 As a business owner
@@ -19,7 +19,7 @@ I want to be able to view and manage the departments, roles, and employees in my
 So that I can organize and plan my business
 ```
 
-## Acceptance Criteria
+## AcceptanceCriteria
 
 * Functional application.
 
