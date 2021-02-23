@@ -53,4 +53,4 @@ https://github.com/marcojansen-gmx/Employee_tracking_tool
 
 The following image to show the menu and a video link to demonstrate app functionality:
 
-![node app to track employees](https://github.com/marcojansen-gmx/Note-taker-app/blob/main/note_taker.png?raw=true)
+![node app to track employees](https://github.com/marcojansen-gmx/Employee_tracking_tool/blob/main/assets/Employee_tracker.png?raw=true)
